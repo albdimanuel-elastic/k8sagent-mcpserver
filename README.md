@@ -201,8 +201,8 @@ inputs:
 
 # Fixed configurations
 consts:
-  mcp_bridge_url: "https://hegemonic-multinucleate-margaret.ngrok-free.dev/manage"
-  mcp_token: "6f8e2d4a1b9c3e5f7a0b2d4c6e8f0a1b3c5d7e9f2a4b6c8d"
+  mcp_bridge_url: "DYNAMIC URL FROM NGROK"
+  mcp_token: "YOUR TOKEN"
 
 steps:
   # Step 1: Informative log to help the user identify errors
