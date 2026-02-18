@@ -85,7 +85,7 @@ except Exception as e:
 
 apps_v1 = client.AppsV1Api()
 # SHARED SECRET: Must match the Workflow token
-API_TOKEN = "6f8e2d4a1b9c3e5f7a0b2d4c6e8f0a1b3c5d7e9f2a4b6c8d"
+API_TOKEN = "YOUR TOKEN"
 
 class ManageRequest(BaseModel):
     action: str             # Options: "scale", "restart", "status", "update_resources"
